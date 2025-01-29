@@ -16,9 +16,14 @@ Este repositorio es un lugar vivo: se actualiza cada 2 a 3 días con un nuevo pr
 
 ## Como correr los test
 
+Dependiendo del nombre de la carpeta que deseas correr seria
 
+```bash
+python -m unittest 1-string_to_integer/problem_test.py
+```
+| Para este caso específico estoy corriendo el del de la carpeta `1-string_to_integer`
 
-### Social Media en spansih 
+### Social Media en spanish 
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -32,6 +37,10 @@ Este repositorio es un lugar vivo: se actualiza cada 2 a 3 días con un nuevo pr
 
 <a href="https://www.instagram.com/marco.devx/">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-64.png" alt="github" width="24" height="24">
+</a>
+
+<a href="https://discord.gg/easkFJwDVX">
+  <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" alt="discord" width="24" height="24">
 </a>
 </div>
 
