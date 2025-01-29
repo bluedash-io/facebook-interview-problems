@@ -61,7 +61,8 @@ class StateMachine:
 
 
 class Solution:
-    def myAtoi(self, s):
+    @staticmethod
+    def my_a_to_i(s):
         q = StateMachine()
 
         for c in s:
